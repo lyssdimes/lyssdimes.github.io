@@ -1,0 +1,12 @@
+.container{
+    background-color: rgba(9, 9, 11, 0.833);
+    border-radius: 10px;
+}
+
+.bottom, .top{
+    background-color: rgb(71, 174, 71);
+}
+.header, .footer{
+    background-color: black;
+    color: rgb(87, 201, 26);
+}

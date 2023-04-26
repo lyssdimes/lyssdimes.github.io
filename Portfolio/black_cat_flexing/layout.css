@@ -1,0 +1,35 @@
+
+*{box-sizing: border-box;}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    max-width: 90vh;
+    max-width: 90vh;
+    border-radius: 5px;
+    padding: 20px 20px;
+    margin: 5px 5px;
+}
+
+
+.cat_div{
+    text-align: center;
+}
+/* ^^this div above is necessary to center align all of the cat images.
+text-align only works on block level elements so put it in a div */
+
+.cat_1, .cat_2, .cat_3{
+max-width: 40%;
+max-height: 40%;
+}
+
+.header, .footer, .top, .bottom{
+    text-align: center;
+    border-radius: 10px;
+}
+
+ol{
+    list-style-type: none;
+}
+
