@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    min-width: 500px;
+    height: 900px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(145, 142, 110);
+    border: solid;
+    justify-items: space evenly;
+    background-image: linear-gradient(pink, yellow, orange);
+}
+
+.item_1, .item_2, .item_3, .item_4, .item_5{
+    height: 150px;
+    width: 200px;
+    justify-content: space-evenly;
+    margin: 20px;
+}
