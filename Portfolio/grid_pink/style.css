@@ -1,0 +1,26 @@
+*{
+    font-family: sans-serif, 'Times New Roman', Times, serif;
+}
+
+.parent{
+    background-color: bisque;
+}
+
+.header{
+    background-color: palevioletred;
+}
+.main_content{
+    background-color: pink;
+}
+
+.left_sidebar{
+    background-color: rgb(219, 161, 201);
+
+}
+.right_sidebar{
+    background-color:  rgb(219, 161, 201);
+}
+.footer{
+    background-color: palevioletred;
+}
+
