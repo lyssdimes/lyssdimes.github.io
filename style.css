@@ -26,7 +26,6 @@ main{
 
 a:hover {
   color: pink;
-  /* #me and #project_section are ids for link to the "about me" and projects sections, respectively */
 }
 
 footer {
@@ -36,5 +35,9 @@ footer {
 
 li {
   font-size: larger;
+}
+
+.projects h3{
+  text-decoration: underline;
 }
 
