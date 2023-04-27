@@ -8,19 +8,20 @@
 
 header {
   background-color: rgba(21, 21, 21, 0.381);
+  color:  rgb(71, 168, 210);
 }
 
 nav {
   background-color: rgb(71, 168, 210);
+  color:rgb(49, 0, 128)
 }
 
 ul {
   list-style-type: none;
 }
 
-.about_me {
-  color: rgb(49, 0, 128);
-  /* first section */
+main{
+  color: antiquewhite;
 }
 
 a:hover {
@@ -28,15 +29,12 @@ a:hover {
   /* #me and #project_section are ids for link to the "about me" and projects sections, respectively */
 }
 
-.projects {
-  color: rgb(49, 0, 128);
-  /* second section */
-}
-
 footer {
   background-color: rgba(21, 21, 21, 0.381);
+  color: rgb(71, 168, 210);
 }
 
 li {
   font-size: larger;
 }
+
